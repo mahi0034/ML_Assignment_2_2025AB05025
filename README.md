@@ -90,6 +90,7 @@ project-folder/
 ├── creditcard.csv
 ├── test.csv
 ├── bits_lab_execution.png
+├── streamlit.png               # Screenshot of app deployed on streamlit.io/cloud
 ├── model/                      # Saved trained models
     ├── logistic_regression.pkl
     ├── decision_tree.pkl
