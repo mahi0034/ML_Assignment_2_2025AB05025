@@ -75,7 +75,7 @@ This dataset contains transactions made by European credit cardholders in Septem
 ✅ **Interactive Dashboard**: Real-time predictions with downloadable results  
 
 ### Live Application:
-🔗 **Streamlit App:** [Your Deployed App URL]
+🔗 **Streamlit App:** https://2025ab05025.streamlit.app/
 
 ---
 
